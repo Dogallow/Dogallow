@@ -8,9 +8,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dogallow&label=Profile%20views&color=0e75b6&style=flat" alt="dogallow" /> </p>
 
 
-- 🔭 I’m currently working on [Spend-mo](https://spend-mo.onrender.com/)
+- 🔭 I’m currently working on [Aerobnb](https://aerobnb.onrender.com)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://dogallow.github.io/](https://dogallow.github.io/)
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **genericsalesman6@gmail.com**
 
-- ⚡ Fun fact **Sports are my favorite hobby.**
+- ⚡ Fun fact **Basketball is my favorite hobby.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
