@@ -1,7 +1,9 @@
-[![MasterHead](https://res.cloudinary.com/dpbd7etx9/image/upload/v1676774863/full-stack-development_rauzs1.gif)](https://dogallow.github.io)
+[![MasterHead](https://user-images.githubusercontent.com/95613961/230990840-a317fabc-8073-41f6-8ed5-81831b96250e.png)](https://dogallow.github.io)
+
+
 <h1 align="center">Hi 👋, I'm Donovan Galloway</h1>
 <h3 align="center">A passionate Fullstack developer</h3>
-<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dpbd7etx9/image/upload/v1676774607/f1e734f9cade86fe737a9aa404ad5677_kvaht6.gif"/>
+<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dpbd7etx9/image/upload/v1676774863/full-stack-development_rauzs1.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dogallow&label=Profile%20views&color=0e75b6&style=flat" alt="dogallow" /> </p>
 
